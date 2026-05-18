@@ -1,0 +1,14 @@
+C:\Users\SONSEONGHUN\Desktop\코드 연습 폴더\Day18c#upgradeProject\Day18c#upgradeProject\obj\Debug\net8.0\Day18c#upgradeProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SONSEONGHUN\Desktop\코드 연습 폴더\Day18c#upgradeProject\Day18c#upgradeProject\obj\Debug\net8.0\Day18c#upgradeProject.AssemblyInfoInputs.cache
+C:\Users\SONSEONGHUN\Desktop\코드 연습 폴더\Day18c#upgradeProject\Day18c#upgradeProject\obj\Debug\net8.0\Day18c#upgradeProject.AssemblyInfo.cs
+C:\Users\SONSEONGHUN\Desktop\코드 연습 폴더\Day18c#upgradeProject\Day18c#upgradeProject\obj\Debug\net8.0\Day18c#upgradeProject.csproj.CoreCompileInputs.cache
+C:\Users\SONSEONGHUN\Desktop\코드 연습 폴더\Day18c#upgradeProject\Day18c#upgradeProject\bin\Debug\net8.0\Day18c#upgradeProject.exe
+C:\Users\SONSEONGHUN\Desktop\코드 연습 폴더\Day18c#upgradeProject\Day18c#upgradeProject\bin\Debug\net8.0\Day18c#upgradeProject.deps.json
+C:\Users\SONSEONGHUN\Desktop\코드 연습 폴더\Day18c#upgradeProject\Day18c#upgradeProject\bin\Debug\net8.0\Day18c#upgradeProject.runtimeconfig.json
+C:\Users\SONSEONGHUN\Desktop\코드 연습 폴더\Day18c#upgradeProject\Day18c#upgradeProject\bin\Debug\net8.0\Day18c#upgradeProject.dll
+C:\Users\SONSEONGHUN\Desktop\코드 연습 폴더\Day18c#upgradeProject\Day18c#upgradeProject\bin\Debug\net8.0\Day18c#upgradeProject.pdb
+C:\Users\SONSEONGHUN\Desktop\코드 연습 폴더\Day18c#upgradeProject\Day18c#upgradeProject\obj\Debug\net8.0\Day18c#upgradeProject.dll
+C:\Users\SONSEONGHUN\Desktop\코드 연습 폴더\Day18c#upgradeProject\Day18c#upgradeProject\obj\Debug\net8.0\refint\Day18c#upgradeProject.dll
+C:\Users\SONSEONGHUN\Desktop\코드 연습 폴더\Day18c#upgradeProject\Day18c#upgradeProject\obj\Debug\net8.0\Day18c#upgradeProject.pdb
+C:\Users\SONSEONGHUN\Desktop\코드 연습 폴더\Day18c#upgradeProject\Day18c#upgradeProject\obj\Debug\net8.0\Day18c#upgradeProject.genruntimeconfig.cache
+C:\Users\SONSEONGHUN\Desktop\코드 연습 폴더\Day18c#upgradeProject\Day18c#upgradeProject\obj\Debug\net8.0\ref\Day18c#upgradeProject.dll
